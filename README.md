@@ -1,2 +1,2 @@
 # Snake_Game
-snake game designing using python
+Designing Snake game using Python in which the high score is recorded.
